@@ -1,1 +1,1 @@
-module github.com/jzoric/hellomod
+module github.com/jzoric/hellomod/v2
